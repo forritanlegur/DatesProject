@@ -1,0 +1,41 @@
+h1 {
+    font-weight: 1800px;
+    font-size: 10px;
+    text-align: center;
+}
+h2 {
+    font-weight: lighter;
+    font-size: 7px;
+    text-align: center;
+    color: gray;
+}
+body {
+    background: cornsilk;
+}
+img {
+    padding: 25px 25px 25px 25px;
+    margin: 25 auto;
+    transition: all 250ms ease-in-out;
+    border-radius: 20%;
+}
+img:hover {
+    opacity: 55%;
+}
+.Sme {
+    color: gray;
+    font-weight: 1800px;
+    font-size: 30px;
+    text-align: center;
+}
+.On {
+    color: gray;
+    font-weight: 1800px;
+    font-size: 30px;
+    text-align: center;
+}
+.Sve {
+    color: gray;
+    font-weight: 1800px;
+    font-size: 30px;
+    text-align: center;
+}
